@@ -9,7 +9,11 @@ Packages included:
 - icedtea-plugin (Plug-in for the browser to run Java applet)
 
 Steps to follow: 
+
 1) Clone the repository.
+
 2) Give permissions to script.
+
 3) Run the script.
+
 4) Restart browser. 
